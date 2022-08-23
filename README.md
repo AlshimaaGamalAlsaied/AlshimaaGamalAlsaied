@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello 👋, I'm Al-Shimaa Gamal. I'm interested in AI and machine learning as it is rapidly integrated into various areas with a valuable impact on our daily lives. I have a professional master's degree from uOttawa University, Electrical and Computer Engineering Department, AI and Data Science program. And a bachelor's degree from Cairo University, Systems and Biomedical Engineering Department.
+Hello 👋, I'm Al-Shimaa Gamal. I'm interested in AI and machine learning as it is rapidly integrated into various areas with a valuable impact on our daily lives. I have a professional master's degree from uOttawa University, Electrical and Computer Engineering, AI and Data Science program. And a bachelor's degree from Cairo University, Systems and Biomedical Engineering.
 
 
 ## 🌐 Socials:
